@@ -3,6 +3,6 @@ class Simple
 {
 	public static void main()
 	{
-		System.out.println("Hello DevOps");
+		System.out.println("Welcome to DevOps");
 	}
 }
